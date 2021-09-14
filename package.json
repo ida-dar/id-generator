@@ -1,0 +1,8 @@
+{
+  "name": "@ida-dar/id-generator",
+  "description" : "Random ID generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": ["id", "generator"],
+  "license": "MIT"
+}
